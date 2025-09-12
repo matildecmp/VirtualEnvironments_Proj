@@ -3,7 +3,7 @@
 ![Unity](https://img.shields.io/badge/Unity-6000.0.51f1-black?logo=unity)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 
-🎮 [Click here to play](https://matildecmp.itch.io/fox-on-the-run)
+🎮 [Click here to play](https://matildecmp.itch.io/fox-on-the-run) </br>
 ⚠️ Browser only!
 
 ## Instructions
