@@ -3,7 +3,7 @@
 ![Unity](https://img.shields.io/badge/Unity-6000.0.51f1-black?logo=unity)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 
-Playable at the following link: 
+🎮 [Click to play](https://matildecmp.itch.io/fox-on-the-run)
 
 ## Instructions
 
@@ -16,8 +16,8 @@ Spacebar > Jump
 
 ## Notes
 
-See [CREDITS.md](CREDITS.md) for a full list of the assets used and their sources.
+See [CREDITS.md](CREDITS.md) for the full list of the assets used and their sources.
 
-3D Endless runner <br/>
+3D Endless Runner <br/>
 Developed by Matilde Campanardi in Unity <br/>
-Msc in Digital Humanities [a.y. 2024/25]
+MSc in Digital Humanities [a.y. 2024/25]
