@@ -1,8 +1,8 @@
-# AmbientiVirtuali_2025
+# Fox on the Run
 
-È possibile giocare al link: ...
+Playable at the following link: ...
 
-<b>Tipologia:</b> 3D Endless runner <br/>
-<b>Ambiente di sviluppo:</b> Unity <br/>
-<b>Sviluppato da:</b> Matilde Campanardi <br/>
-CdLM Informatica Umanistica, a.a. 2024/2025
+<b>Type:</b> 3D Endless runner <br/>
+<b>Development environment:</b> Unity <br/>
+Developed by Matilde Campanardi <br/>
+Msc in Digital Humanities [a.y. 2024/25]
