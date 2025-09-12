@@ -8,12 +8,21 @@
 
 ## Instructions
 
-Grab all the snacks you can on the run – but dodge red mushrooms, bears and swooping birds! Snag golden apples for +5 points and pass through starry halos to go invincible for a short time.
+User plays as a fox racing through the forest, trying to collect as many snacks as possible.
 
-<b>CONTROLS:</b> </br>
-A / Left Arrow > Move left </br>
-D / Right arrow > Move right </br>
-Spacebar > Jump
+🍎 Ordinary food → +1 point
+
+✨ Golden apples → +5 points
+
+🍄 Red mushrooms, 🐻 bears, 🐦 birds → -1 life
+
+⭐ Starry halos → temporary invincibility
+
+## Controls
+
+A / Left Arrow → Move left </br>
+D / Right arrow → Move right </br>
+Spacebar → Jump
 
 ## Notes
 
