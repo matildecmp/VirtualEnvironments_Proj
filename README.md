@@ -5,6 +5,17 @@
 
 Playable at the following link: ...
 
+## Instructions
+
+Grab all the snacks you can on the run – but dodge red mushrooms, bears and swooping birds! Snag golden apples for +5 points and pass through starry halos to go invincible for a short time.
+
+<b>CONTROLS:</b> </br>
+A / Left Arrow > Move left </br>
+D / Right arrow > Move right </br>
+Spacebar > Jump
+
+## Notes
+
 See [CREDITS.md](CREDITS.md) for a full list of the assets used and their sources.
 
 3D Endless runner <br/>
