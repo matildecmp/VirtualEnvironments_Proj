@@ -28,6 +28,8 @@ Spacebar → Jump
 
 See [CREDITS.md](CREDITS.md) for the full list of the assets used and their sources.
 
+<img width="261" height="152" alt="image" src="https://github.com/user-attachments/assets/95ca31b2-11f9-4825-a934-4a4c7864e535" />
+
 3D Endless Runner <br/>
 Developed by Matilde Campanardi in Unity <br/>
 MSc in Digital Humanities [a.y. 2024/25]
