@@ -11,12 +11,9 @@
 
 User plays as a fox racing through the forest, trying to collect as many snacks as possible.
 
-🍎 Ordinary food → +1 point
-
-✨ Golden apples → +5 points
-
-🍄 Red mushrooms, 🐻 bears, 🐦 birds → -1 life
-
+🍎 Ordinary food → +1 point </br>
+✨ Golden apples → +5 points </br>
+🍄 Red mushrooms, 🐻 Bears, 🐦 Birds → -1 life </br>
 ⭐ Starry halos → temporary invincibility
 
 ## Controls
