@@ -6,7 +6,7 @@
 🎮 [Click here to play](https://matildecmp.itch.io/fox-on-the-run) </br>
 ⚠️ Browser only!
 
-## Instructions
+## Description
 
 In this 3D endless runner, user plays as a fox racing through the forest, trying to collect as many snacks as possible.
 
